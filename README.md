@@ -1,3 +1,6 @@
+# originally sourced @
+https://github.com/mirantis-field/bakery.git
+
 # FourthCoffee Application
 
 ## Sample ASP.NET application running with Windows Containers
